@@ -1,0 +1,3 @@
+[submodule "HPC-Fishing"]
+	path = HPC-Fishing
+	url = http://github.com/Tritlo/HPC-Fishing.git
